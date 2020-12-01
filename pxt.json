@@ -1,0 +1,23 @@
+{
+    "name": "登月小車－灯條不同顏色",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "mooncar": "github:icshopmgr/mooncar#17da069e3f6f95e3a552ee69bec91323ffe288d2"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
